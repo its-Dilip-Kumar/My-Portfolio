@@ -1,4 +1,4 @@
-const API_URL = "https://my-portfolio-4v30.onrender.com/api/contact";
+const API_URL = "https://my-portfolio-8txk.onrender.com/api/contact";
 
 const form = document.getElementById("contactForm");
 
