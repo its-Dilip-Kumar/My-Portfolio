@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors({
   origin: [
     "http://127.0.0.1:5500",
-    "https://my-portfolio-eight-flax-15.vercel.app",
+    "https://my-portfolio-eight-beta-17.vercel.app",
   ],
   methods: ["GET", "POST"],
 }));
